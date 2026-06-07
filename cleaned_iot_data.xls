@@ -1,0 +1,4 @@
+timestamp,device_id,data_type,data_value,numeric_value
+2026-06-07 14:43:18,PAT001,Heart Rate,75 BPM,75.0
+2026-06-07 14:43:18,PAT002,Oxygen Level,98%,98.0
+2026-06-07 14:43:18,PAT003,Temperature,36.5°C,36.5
